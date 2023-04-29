@@ -1,4 +1,4 @@
-# (c) @Royalkrrishna
+# (c) @Chodhary_02
 from pyrogram import Client, filters
 import datetime
 from configs import Config
