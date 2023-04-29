@@ -1,4 +1,4 @@
-# (c) @RoyalKrrishna
+# (c) @Chodhary_02
 import time
 import string
 import random
